@@ -1,4 +1,4 @@
-# Backbone-Rails [![Build Status](https://secure.travis-ci.org/codebrew/backbone-rails.png)](http://travis-ci.org/codebrew/backbone-rails)[![Gem Version](https://badge.fury.io/rb/rails-backbone.png)](http://badge.fury.io/rb/rails-backbone)
+# Backbone-Rails fork
 
 Easily setup and use backbone.js (1.4.0) with Rails 3.1 and greater
 
