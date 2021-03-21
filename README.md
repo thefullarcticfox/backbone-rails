@@ -2,17 +2,9 @@
 
 Easily setup and use backbone.js (1.4.0) with Rails 3.1 and greater
 
-##Version##
+## Version
 
-###Github master branch###
-
-Gem version : 1.4.0
-
-Backbone version : 1.4.0
-
-Underscore version : 1.12.0
-
-###Rubygems###
+### Github master branch
 
 Gem version : 1.4.0
 
@@ -20,13 +12,12 @@ Backbone version : 1.4.0
 
 Underscore version : 1.12.0
 
-
-##Credits##
-###Author###
+## Credits
+### Author
 [Ryan Fitzgerald](http://twitter.com/#!/TheRyanFitz)
-###Current Maintainer
+### Current Maintainer
 [Manu S Ajith](http://twitter.com/manusajith)
-###Contributors###
+### Contributors
 These [awesome people](https://github.com/codebrew/backbone-rails/graphs/contributors) helped to keep this gem updated
 
 ## Rails setup
